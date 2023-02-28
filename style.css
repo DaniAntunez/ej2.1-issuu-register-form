@@ -87,3 +87,8 @@ footer {
 .dmca {
     margin-left: 20px;
 }
+
+a {
+    text-decoration: none;
+    color: blue;
+}
